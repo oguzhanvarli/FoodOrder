@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital@0;1&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'PT Sans', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.nav-link{
+  color: white !important;
+}
+
+.nav-link:hover, .navbar-brand:hover{
+  color: grey !important;
+}
+.navbar{
+  background-color: crimson !important;
+}
